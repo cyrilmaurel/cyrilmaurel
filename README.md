@@ -10,7 +10,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/cyrilmaurel/cyrilmaurel/main/banner.png" alt="Cyril Maurel — Étudiant BTS SIO SISR · Alternant Systèmes & Réseaux" />
 
 <a href="https://github.com/cyrilmaurel">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00B1AA&center=true&vCenter=true&width=720&height=56&lines=Reconversion+vers+l%27informatique;BTS+SIO+option+SISR+%C2%B7+Session+2028;Alternant+chez+Meldomys;Je+d%C3%A9bute%2C+et+j%27apprends+chaque+jour" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00B1AA&center=true&vCenter=true&width=720&height=56&lines=Reconversion+vers+l%27informatique;BTS+SIO+option+SISR+%C2%B7+Session+2028;Alternant+chez+Meldomys;Curieux%2C+rigoureux%2C+orient%C3%A9+terrain" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@
   <tr>
     <td align="center"><b>🔄 PARCOURS</b><br/><sub>Reconversion après deux<br/>expériences en comptabilité</sub></td>
     <td align="center"><b>🎯 CE QUE JE VISE</b><br/><sub>Métiers des systèmes<br/>et réseaux (SISR)</sub></td>
-    <td align="center"><b>🌱 NIVEAU</b><br/><sub>Je débute en informatique,<br/>en 1<sup>re</sup> année de BTS</sub></td>
+    <td align="center"><b>📅 EN COURS</b><br/><sub>1<sup>re</sup> année de BTS<br/>Session 2028</sub></td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@
 Après deux expériences en comptabilité, je me suis reconverti vers l'informatique, un domaine qui m'attirait depuis longtemps.
 Je prépare aujourd'hui un **BTS SIO option SISR** à MyDigitalSchool Angers, en alternance au sein de la **Direction Numérique & Logistique de Meldomys**.
 
-Je pars de zéro côté technique, et je l'assume : je suis ici pour apprendre, avec **curiosité**, **rigueur** et un vrai goût pour **comprendre pourquoi quelque chose ne marche pas**.
+Ce qui me motive : **comprendre comment les choses fonctionnent**, diagnostiquer quand elles ne fonctionnent pas, et documenter pour que ça serve aux autres. J'apprends à la fois en formation et sur le terrain, en alternance.
 
 > 🔎 Mon parcours, mes réalisations et ma veille sont sur mon portfolio : **[cyrilmaurel.github.io](https://cyrilmaurel.github.io/)**
 
@@ -83,26 +83,24 @@ Je rejoins la Direction Numérique & Logistique, bailleur social, dans le cadre 
 - 📡 **Suivi des services** : serveurs, messagerie, demandes auprès des hébergeurs
 - 📝 **Documentation** : procédures et guides pour les utilisateurs
 
-<sub>Ces missions sont en cours de découverte : je les détaille et les documente au fil de l'année sur mon portfolio.</sub>
+<sub>Je détaille et documente ces missions au fil de l'année sur mon portfolio.</sub>
 
 <br/>
 
 <!-- ============================ OUTILS & APPRENTISSAGE ============================ -->
-## 🌱 Ce que j'utilise et ce que j'apprends
+## 🧰 Mes outils et domaines
 
-Pas de grande liste de technos ici : seulement ce que je croise vraiment, avec mon niveau réel.
+Ce que je pratique en alternance et en cours :
 
-| Outil / domaine | Niveau | Contexte |
-|:--|:-:|:--|
-| **GLPI** (gestion des tickets) | 🌱 Découverte | Alternance |
-| **Microsoft 365 / Outlook** | 🌿 Utilisateur | Alternance, quotidien |
-| **Excel** | 🌳 À l'aise | Acquis en comptabilité |
-| **Active Directory** | 🌱 Découverte | Alternance + cours |
-| **Réseaux** (bases) | 🌱 Découverte | BTS SISR |
-| **Linux** (bases) | 🌱 Découverte | BTS SISR |
-| **GitHub & Markdown** | 🌱 Découverte | Ce profil ! |
-
-<sub>🌱 découverte &nbsp;·&nbsp; 🌿 utilisateur &nbsp;·&nbsp; 🌳 à l'aise</sub>
+| Outil / domaine | Où je le pratique |
+|:--|:--|
+| **GLPI** (gestion des tickets) | Alternance |
+| **Microsoft 365 / Outlook** | Alternance |
+| **Active Directory** | Alternance & cours |
+| **Réseaux** | Cours (BTS SISR) |
+| **Linux** | Cours (BTS SISR) |
+| **Excel** (usage avancé) | Acquis en comptabilité |
+| **GitHub & Markdown** | Portfolio et ce profil |
 
 <br/>
 
