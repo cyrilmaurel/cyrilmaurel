@@ -1,120 +1,154 @@
-[github_profile_readme.md](https://github.com/user-attachments/files/33246642/github_profile_readme.md)
+<!--
+  Palette reprise du portfolio (cyrilmaurel.github.io)
+  Marine #20305F · Vert d'eau #00B1AA · Bleu #4157A3 · Turquoise école #28B8C2
+  Rose Meldomys #EA5172 · Fond sombre #111A33 · Surface #1A2547
+-->
+
+<!-- ============================ EN-TÊTE ============================ -->
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,24&height=180&section=header&text=Cyril%20Maurel&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=BTS%20SIO%20SISR%20%7C%20Administrateur%20Syst%C3%A8mes%20%26%20R%C3%A9seaux%20(Alternance)&descSize=16&descColor=dfe6e9&descAlignY=66" width="100%" alt="Cyril Maurel Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:20305F,100:00B1AA&text=Cyril%20Maurel&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=%C3%89tudiant%20BTS%20SIO%20SISR%20%C2%B7%20Alternant%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descSize=18&descColor=D0EBFC&descAlignY=58" alt="Cyril Maurel — Étudiant BTS SIO SISR · Alternant Systèmes & Réseaux" />
+
+<a href="https://github.com/cyrilmaurel">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00B1AA&center=true&vCenter=true&width=720&height=56&lines=Reconversion+vers+l%27informatique;BTS+SIO+option+SISR+%C2%B7+Session+2028;Alternant+chez+Meldomys;Je+d%C3%A9bute%2C+et+j%27apprends+chaque+jour" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Social Badges / Links -->
-<a href="https://www.linkedin.com/in/maurel-cyril">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:cyril.maurel@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.mydigitalschool.com/">
-  <img src="https://img.shields.io/badge/MyDigitalSchool-00B4D8?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="École" />
-</a>
-<a href="https://www.meldomys.fr/">
-  <img src="https://img.shields.io/badge/Meldomys-1E293B?style=for-the-badge&logo=codepen&logoColor=white" alt="Entreprise" />
-</a>
+<a href="https://cyrilmaurel.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-20305F?style=for-the-badge&labelColor=20305F&color=00B1AA" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/cyril-maurel1/"><img src="https://img.shields.io/badge/LINKEDIN-4157A3?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:cyrilmaurel010@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA5172?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/MYDIGITALSCHOOL-28B8C2?style=for-the-badge" alt="MyDigitalSchool" />
+<img src="https://img.shields.io/badge/MELDOMYS-20305F?style=for-the-badge" alt="Meldomys" />
 
 </div>
 
 <br/>
 
-### ⚡ Quick look
+<!-- ============================ QUICK LOOK ============================ -->
+## ⚡ En un coup d'œil
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="33%" bgcolor="#0f172a">
-      <div align="center">
-        <b>🎓 ÉTUDES</b><br/>
-        <sub><b>BTS SIO (Option SISR)</b></sub><br/>
-        <sub>MyDigitalSchool (Angers)</sub>
-      </div>
-    </td>
-    <td width="33%" bgcolor="#0f172a">
-      <div align="center">
-        <b>💼 POSTE ACTUEL</b><br/>
-        <sub><b>Alternant Sys & Réseaux</b></sub><br/>
-        <sub>Meldomys Groupe</sub>
-      </div>
-    </td>
-    <td width="33%" bgcolor="#0f172a">
-      <div align="center">
-        <b>📍 LOCALISATION</b><br/>
-        <sub><b>Angers, France</b></sub><br/>
-        <sub>Pays de la Loire</sub>
-      </div>
-    </td>
+    <td align="center" width="260"><b>🎓 FORMATION</b><br/><sub>BTS SIO · option SISR<br/>MyDigitalSchool (Angers)</sub></td>
+    <td align="center" width="260"><b>💼 ALTERNANCE</b><br/><sub>Technicien Systèmes & Réseaux<br/>Meldomys · 2026 – 2028</sub></td>
+    <td align="center" width="260"><b>📍 LOCALISATION</b><br/><sub>Angers, France<br/>Pays de la Loire</sub></td>
   </tr>
   <tr>
-    <td width="33%" bgcolor="#0f172a">
-      <div align="center">
-        <b>🛡️ INFRA & RÉSEAUX</b><br/>
-        <sub><b>Cisco • pfSense • AD DS</b></sub><br/>
-        <sub>Segmentation, routage & VPN</sub>
-      </div>
-    </td>
-    <td width="33%" bgcolor="#0f172a">
-      <div align="center">
-        <b>📦 VIRTUALISATION</b><br/>
-        <sub><b>Proxmox • VMware • Docker</b></sub><br/>
-        <sub>Environnements de test & prod</sub>
-      </div>
-    </td>
-    <td width="33%" bgcolor="#0f172a">
-      <div align="center">
-        <b>🚀 OBJECTIFS</b><br/>
-        <sub><b>Épreuves E4 / E5</b></sub><br/>
-        <sub>Automatisation PowerShell & Ansible</sub>
-      </div>
-    </td>
+    <td align="center"><b>🔄 PARCOURS</b><br/><sub>Reconversion après deux<br/>expériences en comptabilité</sub></td>
+    <td align="center"><b>🎯 CE QUE JE VISE</b><br/><sub>Métiers des systèmes<br/>et réseaux (SISR)</sub></td>
+    <td align="center"><b>🌱 NIVEAU</b><br/><sub>Je débute en informatique,<br/>en 1<sup>re</sup> année de BTS</sub></td>
   </tr>
 </table>
 
-<br/>
-
-### 📢 En vedette : Alternance & Projets
-
-> **Administration Système & Supervision chez Meldomys**  
-> Gestion et maintien en condition opérationnelle du parc informatique, support technique de niveau 1/2, gestion des droits Active Directory et sécurisation des postes de travail.
-
-- 🔒 **Infrastructure Réseau & Sécurité** : maquettage de routeurs/switchs Cisco, création de VLANs, pare-feu pfSense.
-- 🖧 **Services Réseau** : déploiement et gestion des rôles Windows Server (AD DS, DHCP, DNS, GPO).
-- 📜 **Automatisation** : scripts de déploiement et de maintenance sous PowerShell et Bash.
+</div>
 
 <br/>
 
-### 🛠️ Boîte à outils technique
+<!-- ============================ À PROPOS ============================ -->
+## 👋 À propos
 
-<p align="left">
-  <b>Systèmes & Services</b><br/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
-  <br/><br/>
-  <b>Réseau & Pare-feu</b><br/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <br/><br/>
-  <b>Virtualisation & Conteneurs</b><br/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <br/><br/>
-  <b>Scripting</b><br/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+Après deux expériences en comptabilité, je me suis reconverti vers l'informatique, un domaine qui m'attirait depuis longtemps.
+Je prépare aujourd'hui un **BTS SIO option SISR** à MyDigitalSchool Angers, en alternance au sein de la **Direction Numérique & Logistique de Meldomys**.
+
+Je pars de zéro côté technique, et je l'assume : je suis ici pour apprendre, avec **curiosité**, **rigueur** et un vrai goût pour **comprendre pourquoi quelque chose ne marche pas**.
+
+> 🔎 Mon parcours, mes réalisations et ma veille sont sur mon portfolio : **[cyrilmaurel.github.io](https://cyrilmaurel.github.io/)**
 
 <br/>
+
+<!-- ============================ ATOUTS ============================ -->
+## 💪 Mes atouts
+
+Ce que mes années en comptabilité m'ont apporté, et que je mets au service de l'informatique :
+
+| Atout | En pratique |
+|:--|:--|
+| 🔍 **Esprit d'analyse** | Chercher la cause d'un problème avant de chercher la solution |
+| 📏 **Rigueur** | Vérifier, recouper, ne rien laisser au hasard |
+| 📝 **Documentation** | Garder une trace claire de ce que je fais, pour que d'autres puissent le refaire |
+| 🧭 **Autonomie & adaptabilité** | Apprendre de nouveaux outils vite, y compris en changeant de métier |
+
+<br/>
+
+<!-- ============================ ALTERNANCE ============================ -->
+## 💼 En alternance chez Meldomys
+
+Je rejoins la Direction Numérique & Logistique, bailleur social, dans le cadre de ma formation. Mes missions tournent autour de :
+
+- 🎫 **Support aux utilisateurs** : suivre et résoudre des demandes via **GLPI**
+- 🖥️ **Parc informatique** : installation et configuration de postes, maintenance
+- 📡 **Suivi des services** : serveurs, messagerie, demandes auprès des hébergeurs
+- 📝 **Documentation** : procédures et guides pour les utilisateurs
+
+<sub>Ces missions sont en cours de découverte : je les détaille et les documente au fil de l'année sur mon portfolio.</sub>
+
+<br/>
+
+<!-- ============================ OUTILS & APPRENTISSAGE ============================ -->
+## 🌱 Ce que j'utilise et ce que j'apprends
+
+Pas de grande liste de technos ici : seulement ce que je croise vraiment, avec mon niveau réel.
+
+| Outil / domaine | Niveau | Contexte |
+|:--|:-:|:--|
+| **GLPI** (gestion des tickets) | 🌱 Découverte | Alternance |
+| **Microsoft 365 / Outlook** | 🌿 Utilisateur | Alternance, quotidien |
+| **Excel** | 🌳 À l'aise | Acquis en comptabilité |
+| **Active Directory** | 🌱 Découverte | Alternance + cours |
+| **Réseaux** (bases) | 🌱 Découverte | BTS SISR |
+| **Linux** (bases) | 🌱 Découverte | BTS SISR |
+| **GitHub & Markdown** | 🌱 Découverte | Ce profil ! |
+
+<sub>🌱 découverte &nbsp;·&nbsp; 🌿 utilisateur &nbsp;·&nbsp; 🌳 à l'aise</sub>
+
+<br/>
+
+<!-- ============================ PROJETS ============================ -->
+## 🚀 Projets & réalisations
+
+| Projet | Description | Lien |
+|:--|:--|:-:|
+| 🌐 **Mon portfolio BTS SIO** | Site présentant mon parcours, mes réalisations E5/E6 et ma veille technologique. | [Voir](https://cyrilmaurel.github.io/) |
+| 📘 **Réalisations E5 / E6** | Réalisations de l'alternance et de la formation, ajoutées au fil de l'eau. | [Voir](https://cyrilmaurel.github.io/realisations.html) |
+
+<sub>La liste va grandir avec l'alternance et la formation, c'est un point de départ.</sub>
+
+<br/>
+
+<!-- ============================ VEILLE ============================ -->
+## 🔭 Ma veille technologique
+
+**Sujet : la donnée au service du logement social.**
+Chez Meldomys, trois ERP produisent chacun leurs données. Je cherche à comprendre comment les bailleurs sociaux les exploitent pour piloter leur patrimoine, et quel rôle l'informatique y joue.
+
+<br/>
+
+<!-- ============================ OBJECTIFS ============================ -->
+## 🎯 Mes objectifs
+
+- ✅ Valider mon **BTS SIO option SISR** (session 2028)
+- 📚 Préparer sereinement les **épreuves E5 et E6**
+- 🏅 Passer mes premières certifications : **PIX** (obtenue), puis **SecNumacadémie**, **MS-900** et **CCNA** envisagées
+- 🔧 Monter en compétence sur les **systèmes et réseaux** grâce à l'alternance
+
+<br/>
+
+<!-- ============================ CONTACT ============================ -->
+## 🤝 Me contacter
+
+Un conseil, une opportunité, une question sur la reconversion ou l'alternance ? N'hésitez pas à m'écrire !
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,22,24&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+<a href="https://cyrilmaurel.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-20305F?style=for-the-badge&labelColor=20305F&color=00B1AA" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/cyril-maurel1/"><img src="https://img.shields.io/badge/LINKEDIN-4157A3?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:cyrilmaurel010@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA5172?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00B1AA,100:20305F&section=footer" alt="" />
+
+**Fait avec rigueur (et un peu de café) par [Cyril Maurel](https://cyrilmaurel.github.io/) ↗**
+
 </div>
