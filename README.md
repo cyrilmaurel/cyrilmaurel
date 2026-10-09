@@ -173,11 +173,9 @@
 
 <table width="100%">
   <tr>
-    <td>
-      📧 <b>Email :</b> <a href="mailto:cyrilmaurel010@gmail.com">cyrilmaurel010@gmail.com</a><br/>
-      💼 <b>LinkedIn :</b> <a href="https://www.linkedin.com/in/cyril-maurel1/">Cyril Maurel</a><br/>
-      🌐 <b>Portfolio :</b> <a href="https://cyrilmaurel.github.io/">cyrilmaurel.github.io</a>
-    </td>
+    <td align="center" width="33%"><b>📧 Email</b><br/><a href="mailto:cyrilmaurel010@gmail.com">cyrilmaurel010@gmail.com</a></td>
+    <td align="center" width="33%"><b>💼 LinkedIn</b><br/><a href="https://www.linkedin.com/in/cyril-maurel1/">Cyril Maurel</a></td>
+    <td align="center" width="33%"><b>🌐 Portfolio</b><br/><a href="https://cyrilmaurel.github.io/">cyrilmaurel.github.io</a></td>
   </tr>
 </table>
 
