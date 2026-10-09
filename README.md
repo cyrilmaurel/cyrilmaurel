@@ -7,7 +7,7 @@
 <!-- ============================ EN-TÊTE ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:20305F,100:00B1AA&text=Cyril%20Maurel&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=%C3%89tudiant%20BTS%20SIO%20SISR%20%C2%B7%20Alternant%20Syst%C3%A8mes%20%26%20R%C3%A9seaux&descSize=18&descColor=D0EBFC&descAlignY=58" alt="Cyril Maurel — Étudiant BTS SIO SISR · Alternant Systèmes & Réseaux" />
+<img width="100%" src="https://raw.githubusercontent.com/cyrilmaurel/cyrilmaurel/main/banner.png" alt="Cyril Maurel — Étudiant BTS SIO SISR · Alternant Systèmes & Réseaux" />
 
 <a href="https://github.com/cyrilmaurel">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00B1AA&center=true&vCenter=true&width=720&height=56&lines=Reconversion+vers+l%27informatique;BTS+SIO+option+SISR+%C2%B7+Session+2028;Alternant+chez+Meldomys;Je+d%C3%A9bute%2C+et+j%27apprends+chaque+jour" alt="Typing SVG" />
@@ -147,7 +147,7 @@ Un conseil, une opportunité, une question sur la reconversion ou l'alternance ?
 <a href="https://www.linkedin.com/in/cyril-maurel1/"><img src="https://img.shields.io/badge/LINKEDIN-4157A3?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:cyrilmaurel010@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA5172?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00B1AA,100:20305F&section=footer" alt="" />
+---
 
 **Fait avec rigueur (et un peu de café) par [Cyril Maurel](https://cyrilmaurel.github.io/) ↗**
 
